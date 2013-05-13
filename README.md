@@ -235,6 +235,7 @@ This lists every file that ends with a `1`. This command:
 Lists every file in `/usr/bin` that ends in the characters `.sh`. And
 this command:
 
+Ladida
     ls *4*1
 
 lists every file in the current directory which contains the number
